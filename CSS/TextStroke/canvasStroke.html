@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Canvas 实现描边</title>
+</head>
+<body>
+    <canvas id="canvas"></canvas>
+    <script>
+        var canvas = document.getElementById("canvas"),
+        context = canvas.getContext("2d");
+        canvas.width = canvas.height = 400;
+        context.font="30px Arial";
+        context.strokeStyle = '#000';
+        context.strokeText("Canvas 实现描边",0, canvas.height / 2);
+    </script>
+</body>
+</html>
