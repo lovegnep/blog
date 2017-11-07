@@ -7,6 +7,7 @@
 - [数据库](#user-content-数据库)
 - [实战项目](#user-content-实战项目)
 - [读书笔记](#user-content-读书笔记)
+- [开发中遇到的问题](#user-content-开发中遇到的问题)
 ---
 ## CSS
 - [transform 属性详解](https://github.com/SilenceHVK/Articles/issues/10)
@@ -23,6 +24,11 @@
 
 ## 实战项目
 - [Node.js 实战微信公众号开发](#nodejs-实战微信公众号开发)
+
+## 开发中遇到的问题
+- [Android WebView 不支持 H5 input type="file" 解决方法](https://github.com/SilenceHVK/Articles/issues/11)
+- [未能加载文件或程序集Newtonsoft.Json, Version=4.5.0.0](https://github.com/SilenceHVK/Articles/issues/12)
+- [IE 不兼容 js indexOf 函数](https://github.com/SilenceHVK/Articles/issues/13)
 ---
 
 ## MongoDB
@@ -58,6 +64,7 @@
 23. [离线应用与客户端存储]()
 24. [最佳实践]()
 25. [新兴的API]()
+
 
 ## Node.js 实战微信公众号开发
 1. [Node.js 接入微信公众平台开发](https://github.com/SilenceHVK/Articles/issues/4)
