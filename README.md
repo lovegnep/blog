@@ -29,6 +29,7 @@
 - [Android WebView 不支持 H5 input type="file" 解决方法](https://github.com/SilenceHVK/Articles/issues/11)
 - [未能加载文件或程序集Newtonsoft.Json, Version=4.5.0.0](https://github.com/SilenceHVK/Articles/issues/12)
 - [IE 不兼容 js indexOf 函数](https://github.com/SilenceHVK/Articles/issues/13)
+- [js 清空 input:file 的值](https://github.com/SilenceHVK/Articles/issues/14)
 ---
 
 ## MongoDB
