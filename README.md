@@ -67,7 +67,17 @@
 25. [新兴的API]()
 
 ## 《图解HTTP》
-
+1. [了解 Web 及网络基础]()
+2. [简单的 HTTP 协议]()
+3. [HTTP 报文内的 HTTP 信息]()
+4. [返回结果的 HTTP 状态码]()
+5. [与 HTTP 协作的 Web 服务器]()
+6. [HTTP 首部]()
+7. [确保 Web 安全的 HTTPS]()
+8. [确认访问用户身份的认证]()
+9. [基于 HTTP 的功能追加协议]()
+10. [构建 Web 内容的技术]()
+11. [Web 的攻击技术]()
 
 ## Node.js 实战微信公众号开发
 1. [Node.js 接入微信公众平台开发](https://github.com/SilenceHVK/Articles/issues/4)
