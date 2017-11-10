@@ -20,7 +20,7 @@
 
 ## 读书笔记
 - [《JavaScript 高级程序设计》](#javascript-高级程序设计)
-- [《图解HTTP》]((#图解http)
+- [《图解HTTP》](#图解http)
 
 ## 实战项目
 - [Node.js 实战微信公众号开发](#nodejs-实战微信公众号开发)
