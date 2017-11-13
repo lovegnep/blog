@@ -1,7 +1,7 @@
 
 # H-VK 技术窝 【坚持我所坚持的，相信我所相信的】
 
-![背景图片](https://github.com/SilenceHVK/Articles/raw/master/assets/images/bg2.jpg)
+![背景图片](https://github.com/SilenceHVK/Articles/raw/master/assets/images/bgImages/bg2.jpg)
 
 ## 文章分类
 - [CSS](#user-content-css)
