@@ -16,6 +16,7 @@
 
 ## JavaScript
 - [ECMAScript 6](#ecmascript-6)
+- [JavaScript中的基础信息](https://github.com/SilenceHVK/Articles/issues/16)
 
 ## 数据库
 - [MongoDB](#mongodb)
