@@ -1,5 +1,5 @@
 
-# H-VK 技术窝 【坚持我所坚持的，相信我所相信的】
+# H-VK 技术窝 【在绝望中寻找希望  在失败中寻找胜利】
 
 ![背景图片](https://github.com/SilenceHVK/Articles/raw/master/assets/images/bgImages/bg2.jpg)
 
