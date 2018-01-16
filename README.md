@@ -11,7 +11,7 @@
 - [实战项目](#user-content-实战项目)
 - [读书笔记](#user-content-读书笔记)
 - [开发中遇到的问题](#user-content-开发中遇到的问题)
----
+
 ## CSS
 - [transform 属性详解](https://github.com/SilenceHVK/articles/issues/10)
 - [CSS 中的选择器](https://github.com/SilenceHVK/articles/issues/19)
@@ -39,7 +39,6 @@
 - [未能加载文件或程序集Newtonsoft.Json, Version=4.5.0.0](https://github.com/SilenceHVK/articles/issues/12)
 - [IE 不兼容 js indexOf 函数](https://github.com/SilenceHVK/articles/issues/13)
 - [js 清空 input:file 的值](https://github.com/SilenceHVK/articles/issues/14)
----
 
 ## MongoDB
 1. [MongoDB 简介与部署](https://github.com/SilenceHVK/articles/issues/3)
