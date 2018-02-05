@@ -56,6 +56,7 @@
 1. [JavaScript 简介](https://github.com/SilenceHVK/articles/issues/8)
 2. [在 HTML 在使用 JavaScript](https://github.com/SilenceHVK/articles/issues/9)
 3. [基本概念](https://github.com/SilenceHVK/articles/issues/15)
+4. [变量、作用域和内存的问题](https://github.com/SilenceHVK/articles/issues/22)
 
 ## Node.js 实战微信公众号开发
 1. [Node.js 接入微信公众平台开发](https://github.com/SilenceHVK/articles/issues/4)
