@@ -18,6 +18,7 @@
 - [transform 属性详解](https://github.com/SilenceHVK/articles/issues/10)
 - [CSS 中的选择器](https://github.com/SilenceHVK/articles/issues/19)
 - [CSS 浏览器兼容问题](https://github.com/SilenceHVK/articles/issues/23)
+- [CSS 块元素和内嵌元素](https://github.com/SilenceHVK/articles/issues/24)
 
 ## JavaScript
 - [ECMAScript 6](#ecmascript-6)
