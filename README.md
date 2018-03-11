@@ -1,6 +1,6 @@
 
-# H-VK 技术窝 【过程就是奖励~~】
-> 莫道君行早，更有早行人。全心敲代码，天道自酬勤。 
+# H-VK 技术窝 【过程就是奖励~~】 
+> 莫道君行早，更有早行人。全心敲代码，天道自酬勤。  
 
 ![背景图片](https://github.com/SilenceHVK/Articles/raw/master/assets/images/bgImages/bg2.jpg)   
 
