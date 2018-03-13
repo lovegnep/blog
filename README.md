@@ -7,7 +7,6 @@
 ## 文章分类
 - [CSS](#user-content-css)
 - [JavaScript](#user-content-javascript)
-- [Learn-Code](#user-content-learn-code)
 - [数据库](#user-content-数据库)
 - [实战项目](#user-content-实战项目)
 - [读书笔记](#user-content-读书笔记)
@@ -25,9 +24,6 @@
 - [ECMAScript 6](#ecmascript-6)
 - [一篇关于 JavaScript 一些知识点的总结 —— 持续更新](https://github.com/SilenceHVK/articles/issues/16)
 - [JavaScript 错题记录](https://github.com/SilenceHVK/articles/issues/18)
-
-## Learn-Code
-- [Learn-Webpack ](https://github.com/SilenceHVK/articles/issues/20)
 
 ## 数据库
 - [MongoDB](#mongodb) 
@@ -68,5 +64,7 @@
 4. [Node.js 微信消息管理](https://github.com/SilenceHVK/articles/issues/7)
 
 ## 其他 
-1. [前端面试题](https://github.com/SilenceHVK/articles/issues/21) 
+1. [前端面试题](https://github.com/SilenceHVK/articles/issues/21)
+2. [Learn-Webpack](https://github.com/SilenceHVK/articles/issues/20)
+3. [Learn-Python]()
 
