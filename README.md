@@ -23,7 +23,7 @@
 ## JavaScript
 - [ECMAScript 6](#ecmascript-6)
 - [一篇关于 JavaScript 一些知识点的总结 —— 持续更新](https://github.com/SilenceHVK/articles/issues/16)
-- [JavaScript 错题记录](https://github.com/SilenceHVK/articles/issues/18)
+- [JavaScript 面试题](https://github.com/SilenceHVK/articles/issues/18)
 
 ## 数据库
 - [MongoDB](#mongodb) 
