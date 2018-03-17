@@ -14,32 +14,33 @@
 - [其他](#user-content-其他) 
 
 ## CSS
-- [transform 属性详解](https://github.com/SilenceHVK/articles/issues/10)
-- [CSS 选择器、选择器的优先级和权重](https://github.com/SilenceHVK/articles/issues/19)
-- [CSS 浏览器兼容问题](https://github.com/SilenceHVK/articles/issues/23)
-- [CSS 块元素和内嵌元素](https://github.com/SilenceHVK/articles/issues/24)
-- [CSS 相对定位与绝对定位](https://github.com/SilenceHVK/articles/issues/25)
+1. [transform 属性详解](https://github.com/SilenceHVK/articles/issues/10)
+2. [CSS 选择器、选择器的优先级和权重](https://github.com/SilenceHVK/articles/issues/19)
+3. [CSS 浏览器兼容问题](https://github.com/SilenceHVK/articles/issues/23)
+4. [CSS 块元素和内嵌元素](https://github.com/SilenceHVK/articles/issues/24)
+5. [CSS 相对定位与绝对定位](https://github.com/SilenceHVK/articles/issues/25)
 
 ## JavaScript
-- [ECMAScript 6](#ecmascript-6)
-- [一篇关于 JavaScript 一些知识点的总结 —— 持续更新](https://github.com/SilenceHVK/articles/issues/16)
-- [JavaScript 面试题](https://github.com/SilenceHVK/articles/issues/18)
+1. [ECMAScript 6](#ecmascript-6)
+2. [一篇关于 JavaScript 一些知识点的总结 —— 持续更新](https://github.com/SilenceHVK/articles/issues/16)
+3. [JavaScript 面试题](https://github.com/SilenceHVK/articles/issues/18)
+4. [解析 jQuery 源码]()
 
 ## 数据库
-- [MongoDB](#mongodb) 
-- [SQL Server](#sql-server)
+1. [MongoDB](#mongodb) 
+2. [SQL Server](#sql-server)
 
 ## 读书笔记
-- [《JavaScript 高级程序设计》](#javascript-高级程序设计)  
+1. [《JavaScript 高级程序设计》](#javascript-高级程序设计)  
 
 ## 实战项目
-- [Node.js 实战微信公众号开发](#nodejs-实战微信公众号开发)
+1. [Node.js 实战微信公众号开发](#nodejs-实战微信公众号开发)
 
 ## 开发中遇到的问题
-- [Android WebView 不支持 H5 input type="file" 解决方法](https://github.com/SilenceHVK/articles/issues/11)
-- [未能加载文件或程序集Newtonsoft.Json, Version=4.5.0.0](https://github.com/SilenceHVK/articles/issues/12)
-- [IE 不兼容 js indexOf 函数](https://github.com/SilenceHVK/articles/issues/13)
-- [js 清空 input:file 的值](https://github.com/SilenceHVK/articles/issues/14)
+1. [Android WebView 不支持 H5 input type="file" 解决方法](https://github.com/SilenceHVK/articles/issues/11)
+2. [未能加载文件或程序集Newtonsoft.Json, Version=4.5.0.0](https://github.com/SilenceHVK/articles/issues/12)
+3. [IE 不兼容 js indexOf 函数](https://github.com/SilenceHVK/articles/issues/13)
+4. [js 清空 input:file 的值](https://github.com/SilenceHVK/articles/issues/14)
 
 ## MongoDB
 1. [MongoDB 简介与部署](https://github.com/SilenceHVK/articles/issues/3)
