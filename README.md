@@ -1,5 +1,5 @@
 
-# H-VK 技术窝 【过程就是奖励~~】 
+# H-VK 技术窝 【少抱怨，多思考，明天更美好~~】 
 > 莫道君行早，更有早行人。全心敲代码，天道自酬勤。  
 
 ![背景图片](https://github.com/SilenceHVK/Articles/raw/master/assets/images/bgImages/bg2.jpg)   
