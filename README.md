@@ -52,6 +52,7 @@
 ## ECMAScript 6
 1. [let 和 const 命令](https://github.com/SilenceHVK/articles/issues/1)
 2. [Destructuring (解构)](https://github.com/SilenceHVK/articles/issues/2)
+3. [Promise 的使用](https://github.com/SilenceHVK/articles/issues/27)
 
 ## 《JavaScript 高级程序设计》
 1. [JavaScript 简介](https://github.com/SilenceHVK/articles/issues/8)
