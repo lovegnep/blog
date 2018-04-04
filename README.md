@@ -61,7 +61,7 @@
 2. [在 HTML 在使用 JavaScript](https://github.com/SilenceHVK/articles/issues/9)
 3. [基本概念](https://github.com/SilenceHVK/articles/issues/15)
 4. [变量、作用域和内存的问题](https://github.com/SilenceHVK/articles/issues/22)
-5. [引用类型](https://github.com/SilenceHVK/articles/issues/23)
+5. [引用类型](https://github.com/SilenceHVK/articles/issues/29)
 
 ## 《你不知道的 JavaScript（全系列）》
 1. [作用域是什么（上卷）]()
