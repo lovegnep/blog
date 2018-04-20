@@ -63,7 +63,7 @@
 4. [变量、作用域和内存的问题](https://github.com/SilenceHVK/articles/issues/22)
 5. [引用类型](https://github.com/SilenceHVK/articles/issues/29)
 
-## 《你不知道的 JavaScript（全系列）》
+## 《你不知道的 JavaScript（全系列）》 
 1. [作用域是什么（上卷）]()
 
 ## Node.js 实战微信公众号开发
