@@ -28,7 +28,7 @@
 4. [解析 jQuery 源码]()
 
 ## Angular
-1. [玩转Angular](#玩转Angular)
+1. [玩转Angular](#user-content-玩转angula)
 
 ## 数据库
 1. [MongoDB](#mongodb) 
