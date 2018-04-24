@@ -28,6 +28,7 @@
 4. [解析 jQuery 源码]()
 
 ## Angular
+1. [玩转Angular](#玩转Angular)
 
 ## 数据库
 1. [MongoDB](#mongodb) 
@@ -58,6 +59,9 @@
 3. [Promise 的使用](https://github.com/SilenceHVK/articles/issues/27)
 4. [Symbol 的使用](https://github.com/SilenceHVK/articles/issues/28)
 5. [关于 Class](https://github.com/SilenceHVK/articles/issues/30)
+
+## 玩转Angula
+1. [Angular-CLI 安装与使用](https://github.com/SilenceHVK/articles/issues/31)
 
 ## 《JavaScript 高级程序设计》
 1. [JavaScript 简介](https://github.com/SilenceHVK/articles/issues/8)
