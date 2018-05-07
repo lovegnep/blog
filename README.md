@@ -68,6 +68,9 @@
 ## 玩转Angula
 1. [Angular-CLI 安装与使用](https://github.com/SilenceHVK/articles/issues/31)
 
+## 解析 jQuery 源码
+1. [从前端工程目录开始](https://github.com/SilenceHVK/articles/issues/34)
+
 ## 《JavaScript 高级程序设计》
 1. [JavaScript 简介](https://github.com/SilenceHVK/articles/issues/8)
 2. [在 HTML 在使用 JavaScript](https://github.com/SilenceHVK/articles/issues/9)
