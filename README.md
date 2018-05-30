@@ -64,7 +64,7 @@
 2. [Destructuring (解构)](https://github.com/SilenceHVK/articles/issues/2)
 3. [Promise 的使用](https://github.com/SilenceHVK/articles/issues/27)
 4. [Symbol 的使用](https://github.com/SilenceHVK/articles/issues/28)
-5. [关于 Class](https://github.com/SilenceHVK/articles/issues/30)
+5. [关于 Class](https://github.com/SilenceHVK/articles/issues/30) 
 
 ## 玩转Angula
 1. [Angular-CLI 安装与使用](https://github.com/SilenceHVK/articles/issues/31)
