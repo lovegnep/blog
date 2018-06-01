@@ -24,6 +24,7 @@
 4. [CSS 块元素和内嵌元素](https://github.com/SilenceHVK/articles/issues/24)
 5. [CSS 相对定位与绝对定位](https://github.com/SilenceHVK/articles/issues/25)
 6. [CSS 文本描边效果](https://github.com/SilenceHVK/articles/issues/32)
+7. [CSS 响应式布局](https://github.com/SilenceHVK/articles/issues/36)
 
 ## JavaScript
 1. [ECMAScript 6](#ecmascript-6)
