@@ -1,4 +1,4 @@
-# H-VK 技术文章【写文章是写个自己，记录编程学习的一点一滴~~】
+# H-VK 技术文章【写文章是写给自己，记录编程学习的一点一滴~~】
 > 莫道君行早，更有早行人。全心敲代码，天道自酬勤。
 
 ![背景图片](https://github.com/SilenceHVK/Articles/raw/master/assets/images/bgImages/bg2.jpg)    
