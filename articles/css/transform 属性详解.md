@@ -1,0 +1,163 @@
+## transform 属性的值
+- translate(x,y)、translateX(x)、translateY(y)、translateZ(z)、translate3d(x,y,z) 定义位置的移动距离
+
+- scale(x,y)、scaleX(x)、scaleY(y)、scaleZ(z)、scale3d(x,yz) 定义元素的缩放比例
+
+- rotate(angle)、rotateX(angle)、rotateY(angle)、rotateZ(angle)、rotate3d(x,y,z,angle) 定义元素的旋转度
+
+- skew(x-angle,y-angle)、skewX(angle)、skewY(angle) 定义元素的倾斜度
+
+## 3D效果认知
+![3D认知图片](http://images.cnblogs.com/cnblogs_com/hvkcode/966655/o_weidu.png)
+
+## perspective 属性
+
+&ensp;&ensp;该属性用于激活一个3D空间，其子元素都会获得透明效果，一般 perspective 属性用于父元素。
+
+- 取值为 none 或 不设置，则为不激活3D空间
+- 取值越小，3D效果越明显，建议取值为元素的宽度
+
+## transform-origin 属性
+
+&ensp;&ensp;用来改变元素原点的位置，取值：
+
+- center 默认值 等价于（ center center / 50% 50%）
+- top/right/bottom/left
+- transform-origin : x y z
+
+## 使用 transform 实现 3D 立方体 [预览](https://htmlpreview.github.io/?https://github.com/SilenceHVK/Articles/blob/master/CSS/Transform/index.html)
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>transform 实现 3D 立方体</title>
+    <style>
+        *{ margin: 0 auto; padding: 0; }
+        html{
+            cursor: pointer;
+            background: #3023ae;
+            background: -moz-linear-gradient(-45deg,  #3023ae 0%, #c86dd7 100%);
+            background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#3023ae), color-stop(100%,#c86dd7));
+            background: -webkit-linear-gradient(-45deg,  #3023ae 0%,#c86dd7 100%);
+            background: -o-linear-gradient(-45deg,  #3023ae 0%,#c86dd7 100%);
+            background: -ms-linear-gradient(-45deg,  #3023ae 0%,#c86dd7 100%);
+            background: linear-gradient(135deg,  #3023ae 0%,#c86dd7 100%);
+            background-attachment: fixed;
+        }
+        .wrap{
+            margin-top: 100px;
+            perspective: 800px;
+            perspective-origin: 50% 100px;
+        }
+        .cube{
+            margin: 0 auto;
+            position: relative;
+            width: 200px;
+            height: 200px;
+            color: #fff;
+            font-size: 2rem;
+            line-height: 200px;
+            text-align: center;
+            transform-style: preserve-3d;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        .cube div{
+            position: absolute;
+            width: 200px;
+            height: 200px;
+            background-color: #333;
+            opacity: 0.5;
+            border: 1px solid #fff;
+        }
+        .front{
+            -webkit-transform:translateZ(100px);
+            -moz-transform: translateZ(100px);
+            -o-transform: translateZ(100px);
+            -ms-transform: translateZ(100px);
+            transform: translateZ(100px);
+        }
+        .back{
+            -webkit-transform:translateZ(-100px) rotateY(180deg);
+            -moz-transform: translateZ(-100px) rotateY(180deg);
+            -o-transform: translateZ(-100px) rotateY(180deg);
+            -ms-transform: translateZ(-100px) rotateY(180deg);
+            transform: translateZ(-100px) rotateY(180deg);
+        }
+        .left{
+            -webkit-transform:translateX(-100px) rotateY(90deg);
+            -moz-transform: translateX(-100px) rotateY(90deg);
+            -o-transform: translateX(-100px) rotateY(90deg);
+            -ms-transform: translateX(-100px) rotateY(90deg);
+            transform: translateX(-100px) rotateY(90deg);
+        }
+        .right{
+            -webkit-transform:translateX(100px) rotateY(-90deg);
+            -moz-transform: translateX(100px) rotateY(-90deg);
+            -o-transform: translateX(100px) rotateY(-90deg);
+            -ms-transform: translateX(100px) rotateY(-90deg);
+            transform: translateX(100px) rotateY(-90deg);
+        }
+        .top{
+            -webkit-transform: translateY(-100px) rotateX(90deg);
+            -moz-transform:  translateY(-100px) rotateX(90deg);
+            -o-transform:  translateY(-100px) rotateX(90deg);
+            -ms-transform: translateY(-100px) rotateX(90deg);
+            transform: translateY(-100px) rotateX(90deg);
+        }
+        .bottom{
+            -webkit-transform:  translateY(100px) rotateX(-90deg);
+            -moz-transform: translateY(100px) rotateX(-90deg);
+            -o-transform: translateY(100px) rotateX(-90deg);
+            -ms-transform: translateY(100px) rotateX(-90deg);
+            transform: translateY(100px) rotateX(-90deg);
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <div class="cube">
+            <div class="front">前</div>
+            <div class="back">后</div>
+            <div class="left">左</div>
+            <div class="right">右</div>
+            <div class="top">上</div>
+            <div class="bottom">下</div>
+        </div>
+    </div>
+    <script>
+        var mouseDown = false;
+        var mousePoint = { x : 0 , y : 0 };
+        var cubeRotate = { x : 0 , y : 0};
+
+        window.onload = function(){
+            document.onmousedown = function(e){
+                mouseDown = true;
+                mousePoint.x = e.pageX;
+                mousePoint.y = e.pageY;
+            }
+            document.onmousemove = function(e){
+                if(mouseDown){
+                    let x = e.pageX - mousePoint.x;
+                    let y = e.pageY - mousePoint.y;
+                    cubeRotate.x += x / 30;
+                    cubeRotate.y += y / 30;
+                    document.querySelector('.cube').style = `transition:linear;transform:rotateX(${cubeRotate.x}deg) rotateY(${cubeRotate.y}deg)`;
+                }  
+            }
+            document.onmouseup = function(e){
+                mouseDown = false;
+            }
+        }
+    </script>
+</body>
+</html>
+```
+
+文章原文地址 [transform 属性详解](https://github.com/SilenceHVK/blog/issues/10)，欢迎 Star、Watch
