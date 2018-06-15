@@ -42,9 +42,6 @@
 
 ## 读书笔记
 1. [《JavaScript 高级程序设计》](#javascript-高级程序设计)  
-2. [《你不知道的 JavaScript（全系列）》]()
-3. [《大话数据结构》]()
-
 ## 实战项目
 1. [Node.js 实战微信公众号开发](#nodejs-实战微信公众号开发)
 
@@ -79,10 +76,6 @@
 3. [基本概念](https://github.com/SilenceHVK/articles/issues/15)
 4. [变量、作用域和内存的问题](https://github.com/SilenceHVK/articles/issues/22)
 5. [引用类型](https://github.com/SilenceHVK/articles/issues/29)
-
-## 《你不知道的 JavaScript（全系列）》 
-1. [作用域是什么（上卷）]() 
-
 
 ## Node.js 实战微信公众号开发
 1. [Node.js 接入微信公众平台开发](https://github.com/SilenceHVK/articles/issues/4)
