@@ -12,7 +12,7 @@
 - [实战项目](#user-content-实战项目)
 - [读书笔记](#user-content-读书笔记)
 - [开发中遇到的问题](#user-content-开发中遇到的问题)
-- [其他](#user-content-其他) 
+- [其他](#user-content-其他)  
 
 ## HTML5 高级API
 1. [Geolocation](https://github.com/SilenceHVK/articles/issues/33)
