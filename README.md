@@ -9,6 +9,7 @@
 - [Golang]()
 - [数据库](#user-content-数据库)
 - [读书笔记](#user-content-读书笔记)
+- [其他](#user-content-其他) 
 
 
 ## 前端技术
@@ -36,10 +37,24 @@
 - Angular
 	- [玩转Angular](#user-content-玩转angula)
 - Node.js
+	- [Node.js 实战微信公众号开发](#user-content-nodejs-实战微信公众号开发)	
+- webpack
+	- [Learn-Webpack](https://github.com/SilenceHVK/articles/issues/20)
+
+## 数据库
+
+- [MongoDB](#mongodb)   
+- [SQL Server](#sql-server)
+
 
 ## 读书笔记
 
-1. [《JavaScript 高级程序设计》](#javascript-高级程序设计)  
+- [《JavaScript 高级程序设计》](#javascript-高级程序设计)  
+
+## 其他
+
+- [Android WebView 不支持 H5 input type="file" 解决方法](https://github.com/SilenceHVK/articles/issues/11)
+- [未能加载文件或程序集Newtonsoft.Json, Version=4.5.0.0](https://github.com/SilenceHVK/articles/issues/12)
 
 ---
 
@@ -63,6 +78,20 @@
 
 1. [Angular-CLI 安装与使用](https://github.com/SilenceHVK/articles/issues/31)
 
+### Node.js 实战微信公众号开发
+
+1. [Node.js 接入微信公众平台开发](https://github.com/SilenceHVK/articles/issues/4)
+2. [Node.js access_token的获取、存储及更新](https://github.com/SilenceHVK/articles/issues/5)
+3. [Node.js 自定义微信菜单](https://github.com/SilenceHVK/articles/issues/6)
+4. [Node.js 微信消息管理](https://github.com/SilenceHVK/articles/issues/7)
+
+### MongoDB
+
+1. [MongoDB 简介与部署](https://github.com/SilenceHVK/articles/issues/3)
+
+### SQL Server
+
+1. [SQL Server 中操作时间的sql语句](https://github.com/SilenceHVK/articles/issues/17)
 
 ### 《JavaScript 高级程序设计》
 
