@@ -6,7 +6,7 @@
 ## 文章分类 
 
 - [前端技术](#user-content-前端技术)
-- [Golang]()
+- [Golang](#user-content-golang)
 - [数据库](#user-content-数据库)
 - [读书笔记](#user-content-读书笔记)
 - [其他](#user-content-其他) 
@@ -40,6 +40,10 @@
 	- [Node.js 实战微信公众号开发](#user-content-nodejs-实战微信公众号开发)	
 - webpack
 	- [Learn-Webpack](https://github.com/SilenceHVK/articles/issues/20)
+
+## Golang
+
+- [Go 学习笔记](https://github.com/SilenceHVK/articles/issues/37)
 
 ## 数据库
 
