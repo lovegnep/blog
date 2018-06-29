@@ -54,6 +54,7 @@
 ## 读书笔记
 
 - [《JavaScript 高级程序设计》](#javascript-高级程序设计)  
+- [《大话数据结构》](https://github.com/SilenceHVK/articles/issues/38)
 
 ## 其他
 
