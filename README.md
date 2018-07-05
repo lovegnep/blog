@@ -1,5 +1,5 @@
 # H-VK 技术文章
-> 莫道君行早，更有早行人。全心敲代码，天道自酬勤。
+> 爱读书的孩子，运气都不会太差~~
 
 ![背景图片](https://github.com/SilenceHVK/Articles/raw/master/assets/images/bgImages/bg2.jpg)    
 
