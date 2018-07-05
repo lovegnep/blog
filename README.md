@@ -55,6 +55,7 @@
 
 - [《JavaScript 高级程序设计》](#javascript-高级程序设计)  
 - [《大话数据结构》](https://github.com/SilenceHVK/articles/issues/38)
+- [《高性能网站建设指南》](https://github.com/SilenceHVK/articles/issues/39)
 
 ## 其他
 
