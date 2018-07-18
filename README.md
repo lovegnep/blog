@@ -9,7 +9,7 @@
 - [Golang](#user-content-golang)
 - [数据库](#user-content-数据库)
 - [读书笔记](#user-content-读书笔记)
-- [其他](#user-content-其他)  
+- [开发中遇到的问题](#user-content-开发中遇到的问题)  
 
 ## 前端技术 
 
@@ -27,8 +27,6 @@
 	
 - JavaScript
 	- [ECMAScript 6](#ecmascript-6)
-	- [IE 不兼容 js indexOf 函数](https://github.com/SilenceHVK/articles/issues/13)
-	- [js 清空 input:file 的值](https://github.com/SilenceHVK/articles/issues/14)
 	- [一篇关于 JavaScript 一些知识点的总结 —— 持续更新](https://github.com/SilenceHVK/articles/issues/16)
 	- [JavaScript 面试题](https://github.com/SilenceHVK/articles/issues/18)
 	- [解析 jQuery 源码](#user-content-解析-jquery-源码)
@@ -56,10 +54,13 @@
 - [《大话数据结构》](https://github.com/SilenceHVK/articles/issues/38)
 - [《高性能网站建设指南》](https://github.com/SilenceHVK/articles/issues/39)
 
-## 其他
+## 开发中遇到的问题
 
+- [IE 不兼容 js indexOf 函数](https://github.com/SilenceHVK/articles/issues/13)
+- [js 清空 input:file 的值](https://github.com/SilenceHVK/articles/issues/14)
 - [Android WebView 不支持 H5 input type="file" 解决方法](https://github.com/SilenceHVK/articles/issues/11)
 - [未能加载文件或程序集Newtonsoft.Json, Version=4.5.0.0](https://github.com/SilenceHVK/articles/issues/12)
+- [npm 安装 sass-loader 出现 ```gyp verb which failed Error:not found: python2``` 错误](https://github.com/SilenceHVK/articles/issues/40)
 
 ### HTML5 高级API
 
