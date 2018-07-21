@@ -27,7 +27,7 @@
 	
 - JavaScript
 	- [ECMAScript 6](#ecmascript-6)
-	- [一篇关于 JavaScript 一些知识点的总结 —— 持续更新](https://github.com/SilenceHVK/articles/issues/16)
+	- [一篇关于 JavaScript 一些知识点的总结](https://github.com/SilenceHVK/articles/issues/16)
 	- [JavaScript 面试题](https://github.com/SilenceHVK/articles/issues/18)
 	- [解析 jQuery 源码](#user-content-解析-jquery-源码)
 	- [Ajax 跨域详解](https://github.com/SilenceHVK/articles/issues/35)
