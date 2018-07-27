@@ -79,7 +79,7 @@
 
 1. [从前端工程目录开始](https://github.com/SilenceHVK/articles/issues/34)
 
-### 玩转Angula
+### 玩转Angula 
 
 1. [Angular-CLI 安装与使用](https://github.com/SilenceHVK/articles/issues/31)
 
