@@ -41,6 +41,7 @@
 ## Golang
 
 - [Go 学习笔记](https://github.com/SilenceHVK/articles/issues/37)
+- [Go 算法实现代码](https://github.com/SilenceHVK/articles/issues/41)
 
 ## 数据库
 
