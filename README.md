@@ -67,7 +67,7 @@
 
 1. [Geolocation](https://github.com/SilenceHVK/articles/issues/33)
 
-### ECMAScript 6
+### ECMAScript 6   
 
 1. [let 和 const 命令](https://github.com/SilenceHVK/articles/issues/1)
 2. [Destructuring (解构)](https://github.com/SilenceHVK/articles/issues/2)
